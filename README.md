@@ -1,7 +1,7 @@
 Image Features
 ========
 
-A class for extracting Image Features.
+A class for extracting Image Features.用于提取图像特征的类
 
 ## Directory List:
 
